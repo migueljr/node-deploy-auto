@@ -7,7 +7,7 @@ app.get('/test', (req, res)=>{
 	res.send({'data': 'Sucess two ok f friend okdd'})
 })
 
-app.get('/user', (req, res)=>{
+app.get('/users', (req, res)=>{
 	res.send({'data': 'list off userss'})
 })
 
