@@ -8,6 +8,6 @@ app.get('/test', (req, res)=>{
 })
 
 app.get('/user', (req, res)=>{
-	res.send({'data': 'list off users'})
+	res.send({'data': 'list off userss'})
 })
 
